@@ -60,7 +60,7 @@ This simulation demonstrates how **embedded systems verify firmware integrity** 
 - Storing the original firmware hash  
 - Hashing the firmware at boot  
 - Comparing both hashes  
-- Deciding whether booting is allowed  
+- Deciding whether booting is allowed 
 
 ### 🟢 Expected Results:
 - Matching hashes → Boot Allowed  
@@ -73,4 +73,8 @@ All theoretical questions (Q1–Q25) were written **by hand** and included in th
 
 ---
 
+# 📁 Repository Structure (What It Means)
+
+This section explains how the repository files are organized.  
+It helps reviewers easily navigate the content.
 
