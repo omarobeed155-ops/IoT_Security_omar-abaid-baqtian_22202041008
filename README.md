@@ -73,7 +73,7 @@ All theoretical questions (Q1–Q25) were written **by hand** and included in th
 
 ---
 
-# 📁 Repository Structure (What It Means)
+# 📁 Repository Structure
 
 This section explains how the repository files are organized.  
 It helps reviewers easily navigate the content.
